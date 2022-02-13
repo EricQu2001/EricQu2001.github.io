@@ -16,7 +16,7 @@ socials:
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/eric-qu-b5a079202/
 
-cv: https://ericqu.site/cv.pdf
+cv: "/cv.pdf"
 bio: Student at Duke Kunshan University
 email: zq32 [at] duke [dot] edu
 ---
@@ -27,7 +27,7 @@ email: zq32 [at] duke [dot] edu
 
 I am a junior undergraduate student at [Duke Kunshan University](https://dku.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
 
-My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. I am interested in combining ideas from mathematics with machine learning.
+My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. In general, I am interested in combining ideas from mathematics with machine learning, and also curious about everything.
 
 
 ## News
@@ -49,7 +49,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Hyperbolic Neural Networks for Molecular Generation**</span>
 
-  *arXiv, 2022 (In submission of ICML 2022)*
+  *arXiv:2201.12825, 2022 (In submission of ICML 2022)*
 
   <span style="color:grey">Eric Qu, Dongmian Zou</span>
   
@@ -116,8 +116,6 @@ Sept 2019 - Present -->
   Columbia University
 
   <span style="color:grey;font-size:16px;">Apr 2020 - Nov 2021 &middot; Remote</span>
-
-  <!-- <span style="color:grey;font-size:16px;">Mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou)</span> -->
 
 </ExpCard>
 
