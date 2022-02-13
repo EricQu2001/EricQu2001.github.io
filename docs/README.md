@@ -25,9 +25,9 @@ email: zq32 [at] duke [dot] edu
 
 ## About Me
 
-I am a junior undergraduate student at [Duke Kunshan University](https://dku.edu.cn) majored in **Data Science**. Currently, I am doing research in machine learning, mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
+I am a junior undergraduate student at [Duke Kunshan University](https://dku.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
 
-My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. I want to combine ideas from mathematics with machine learning. I am also curious and and open to new ideas.
+My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. I am interested in combining ideas from mathematics with machine learning.
 
 
 ## News
@@ -45,22 +45,15 @@ Sept 2019 - Present -->
 
 ## Publications
 
-
-[→ Full list](/projects/)
-
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Hyperbolic Neural Networks for Molecular Generation**</span>
 
-  *arXiv, 2022*
+  *arXiv, 2022 (In submission of ICML 2022)*
 
   <span style="color:grey">Eric Qu, Dongmian Zou</span>
   
-  <!-- We propose a novel fully hyperbolic model for molecular generation utilizing the junction tree auto-encoder framework.
-
-  Many deep generators extract atomic relations from molecular graphs and ignore hierarchical information at both atom and molecule levels. In order to extract such hierarchical information, we propose a novel hyperbolic generative model. Our model contains three parts: first, a fully hyperbolic junction-tree encoder-decoder that embeds the hierarchical information of the molecules in the latent hyperbolic space; second, a latent generative adversarial network for generating the latent embeddings; third, a molecular generator that inherits the decoders from the first part and the latent generator from the second part. We evaluate our model on the ZINC dataset using the MOSES benchmarking platform and achieve competitive results, especially in metrics about structural similarity. -->
-  
-  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Code](https://github.com/yhzq/HJTGAN)]
+  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Code](https://github.com/yhzq/HJTGAN)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
@@ -68,13 +61,15 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Quantifying Nanoparticle Assembly States in a Polymer Matrix through Deep Learning**</span>
 
-  *Macromolecules, 54 (7), 3034-3040*
+  *Macromolecules, 54 (7), 3034-3040, (2021)*
 
   <span style="color:grey">Eric Qu, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
   
-  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[DKU News](https://dku.edu.cn/en/news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
+  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://dku.edu.cn/en/news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
 
 </ProjectCard>
+
+[→ Full list of projects](/projects/)
 
 ## Experiences
 
@@ -159,7 +154,7 @@ Sept 2019 - Present -->
 -	<p style="text-align:left;font-size:18px;">
 	    Canadian Computing Competition Senior Division Top 25%
 	    <span style="float:right;">
-	        Spr 2019
+	        Mar 2019
 	    </span>
 	</p>
 	- China region 2<sup>nd</sup>, World 35<sup>th</sup>
