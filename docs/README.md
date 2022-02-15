@@ -27,7 +27,7 @@ email: zq32 [at] duke [dot] edu
 
 I am a junior undergraduate student at [Duke Kunshan University](https://dku.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
 
-My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. In general, I am interested in combining ideas from mathematics with machine learning, and also curious about everything.
+My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. I also have experience in reinforcement learning and computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
 
 ## News
@@ -51,7 +51,7 @@ Sept 2019 - Present -->
 
   *arXiv:2201.12825, 2022 (In submission of ICML 2022)*
 
-  <span style="color:grey">Eric Qu, Dongmian Zou</span>
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
   
   [[arXiv](https://arxiv.org/abs/2201.12825)] [[Code](https://github.com/yhzq/HJTGAN)] [[Slides](/projects/HJTGANSlides.pdf)]
 
@@ -63,13 +63,35 @@ Sept 2019 - Present -->
 
   *Macromolecules, 54 (7), 3034-3040, (2021)*
 
-  <span style="color:grey">Eric Qu, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
+  <span style="color:grey">**Eric Qu**, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
   
   [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://dku.edu.cn/en/news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
 
 </ProjectCard>
 
-[→ Full list of projects](/projects/)
+## Manuscripts & Projects
+
+<ProjectCard image="/projects/packing.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**Solving Sticky Hard Sphere Packing Problem through Reinforcement Learning and Graph Neutral Networks**</span>
+
+  *May 2021*
+
+  <span style="color:grey">**Eric Qu**, Kai Zhang, Dongmian Zou</span>
+
+</ProjectCard>
+
+<ProjectCard image="/projects/KPAE.png" hideBorder=true>
+
+  <span style="font-size:20px">**Finding Optimal Order Parameter for Particle Systems**</span>
+
+  *Oct 2021*
+
+  <span style="color:grey">**Eric Qu**, Max Yueqian Lin, Kai Zhang</span>
+
+</ProjectCard>
+
+[→ Full list of projects and abstract](/projects/)
 
 ## Experiences
 

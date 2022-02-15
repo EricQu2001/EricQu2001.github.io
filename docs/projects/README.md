@@ -14,7 +14,7 @@ Here are some works of mine :books:
 
   *arXiv:2201.12825, 2022 (In submission of ICML 2022)*
 
-  <span style="color:grey">Eric Qu, Dongmian Zou</span>
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
   
   <span style="font-size:16px">We propose a novel fully hyperbolic model for molecular generation utilizing the junction tree auto-encoder framework. Other contributions include novel concatenation and split operations in Lorentz space and a formulation of fully hyperbolic WGAN with novel gradient penalty.</span>
   
@@ -28,7 +28,7 @@ Here are some works of mine :books:
 
   *Macromolecules, 54 (7), 3034-3040, (2021)*
 
-  <span style="color:grey">Eric Qu, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
+  <span style="color:grey">**Eric Qu**, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
 
   <span style="font-size:16px">We develop and apply a deep-learning based image analysis method to quantify the distribution of spherical NPs in a polymer matrix directly from their real-space TEM images.</span>
   
@@ -36,13 +36,13 @@ Here are some works of mine :books:
 
 </ProjectCard>
 
-## Projects
+## Manuscripts & Projects <span style="color:grey;font-size:16px;">*( <sup>\*</sup> indicates equal contribution)*</span>
 
 <ProjectCard image="/projects/packing.pdf" hideBorder=true>
 
   <span style="font-size:18px">**Solving Sticky Hard Sphere Packing Problem through Reinforcement Learning and Graph Neutral Networks**</span>
 
-  <span style="color:grey">Eric Qu, Kai Zhang, Dongmian Zou</span>
+  <span style="color:grey">**Eric Qu**, Kai Zhang, Dongmian Zou</span>
 
   <span style="font-size:16px">We propose a method of solving sticky hard sphere packing problem. The packing state of the spheres could be mapped to a graph according to the sphere connections. A modified version of Graph Isomorphism Network is trained to identify the valid packing with high accuracy. Then, we train a Mento Carlo Search Tree to generate new packings with the reward based on perviously trained GIN.</span>
 
@@ -52,7 +52,7 @@ Here are some works of mine :books:
 
   <span style="font-size:18px">**Finding Optimal Order Parameter for Particle Systems**</span>
 
-  <span style="color:grey">Eric Qu, Kai Zhang</span>
+  <span style="color:grey">**Eric Qu**, Max Yueqian Lin, Kai Zhang</span>
 
   <span style="font-size:16px">We develop a model to find the optimal order parameter for particle packing systems. The packing state is represented by the 3D point cloud data. We proposed a novel Kernel Point Autoencoder model using KPConv as encoder and our Kernel Point Generator as decoder. Then, the bottleneck layer is extracted to be the order parameter.</span>
 
@@ -62,9 +62,19 @@ Here are some works of mine :books:
 
   <span style="font-size:18px">**Square Object Detection using Bounding Circles**</span>
 
-  <span style="color:grey">Eric Qu, Kai Zhang</span>
+  <span style="color:grey">**Eric Qu**, Anish Kumar Nayak, Tejus Shastry, Sanat K. Kumar, Kai Zhang</span>
 
-  <span style="font-size:16px">We propose a deep learning model for detecting square objects. The square objects could have different orientations, which mains that the result of old coordinate aligned bounding boxes is not uniform and representative. We change the bounding boxes to be counding circles in YOLO and use the model to detect the position an size of DNA nanoCrystals.</span>
+  <span style="font-size:16px">We propose a deep learning model for detecting square objects. The square objects could have different orientations, which means that the result of old coordinate aligned bounding boxes is not uniform and representative. We change the bounding boxes to be bounding circles in YOLO and use the model to detect the position an size of DNA nanoCrystals.</span>
+
+</ProjectCard>
+
+<ProjectCard image="/projects/tracking.png" hideBorder=true>
+
+  <span style="font-size:18px">***In-situ* AFM tracking of Nanoparticle Diffusion in Semicrystalline Polymers**</span>
+
+  <span style="color:grey">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Kai Zhang, Max Yueqian Lin, **Eric Qu**, Sanat K. Kumar, Linda S. Schadler</span>
+
+  <span style="font-size:16px">We design a model for detecting and tracking the drift of nanoparticles in TEM videos.</span>
 
 </ProjectCard>
 
@@ -72,7 +82,7 @@ Here are some works of mine :books:
 
   <span style="font-size:18px">**Accurate Cell Segmentation through Vision Transformer**</span>
 
-  <span style="color:grey">Eric Qu<sup>\*</sup>, Alex Jin<sup>\*</sup>, Dongmian Zou</span>
+  <span style="color:grey">**Eric Qu**<sup>\*</sup>, Alex Jin<sup>\*</sup>, Dongmian Zou</span>
 
   <span style="font-size:16px">We use a modified version of vision transformer to enable accurate cell segmentation. Our model use Swin transformer as backbone and a novel transformer architecture as segment head. This enables it to achieve ultrahigh accuracy in the instance segment of crowded and repeated objects.</span>
 
@@ -82,7 +92,7 @@ Here are some works of mine :books:
 
   <span style="font-size:18px">**Use Reinforcement Learning to Play Flappy Bird**</span>
 
-  <span style="color:grey">Eric Qu</span>
+  <span style="color:grey">**Eric Qu**</span>
 
   <span style="font-size:16px">A cool class project of STATS 203.</span>
 
