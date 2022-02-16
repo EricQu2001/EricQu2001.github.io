@@ -49,7 +49,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Hyperbolic Neural Networks for Molecular Generation**</span>
 
-  *arXiv:2201.12825, 2022 (In submission of ICML 2022)*
+  *arXiv:2201.12825, 2022*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
   

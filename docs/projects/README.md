@@ -12,7 +12,7 @@ Here are some works of mine :books:
 
   <span style="font-size:18px">**Hyperbolic Neural Networks for Molecular Generation**</span>
 
-  *arXiv:2201.12825, 2022 (In submission of ICML 2022)*
+  *arXiv:2201.12825, 2022*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
   
