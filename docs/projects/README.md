@@ -94,7 +94,7 @@ Here are some works of mine :books:
 
   <span style="color:grey">**Eric Qu**</span>
 
-  <span style="font-size:16px">A cool class project of STATS 203.</span>
+  <span style="font-size:16px">A cool class project of STATS 210.</span>
 
   [[Demo](/projects/rldemo)] [[Slides](/projects/RLSlides.pdf)]
 
