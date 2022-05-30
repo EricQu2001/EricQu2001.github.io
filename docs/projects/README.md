@@ -10,13 +10,13 @@ Here are some works of mine :books:
 
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 
-  <span style="font-size:18px">**Hyperbolic Neural Networks for Molecular Generation**</span>
+  <span style="font-size:18px">**Lorentzian Fully Hyperbolic Generative Adversarial Network**</span>
 
   *arXiv:2201.12825, 2022*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
   
-  <span style="font-size:16px">We propose a novel fully hyperbolic model for molecular generation utilizing the junction tree auto-encoder framework. Other contributions include novel concatenation and split operations in Lorentz space and a formulation of fully hyperbolic WGAN with novel gradient penalty.</span>
+  <span style="font-size:16px">We propose a hyperbolic generative adversarial network (GAN) for generating hyperbolic data, and verified it using synthetic datasets. Moreover, we construct  HAEGAN using a combination of hyperbolic GAN and autoencoder. Experiments show that HAEGAN is able to generate complex data with state-of-the-art performance.</span>
   
   [[arXiv](https://arxiv.org/abs/2201.12825)] [[Code](https://github.com/yhzq/HJTGAN)] [[Slides](/projects/HJTGANSlides.pdf)]
 

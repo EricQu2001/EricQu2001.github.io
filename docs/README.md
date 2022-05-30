@@ -32,9 +32,9 @@ My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Ne
 
 ## News
 
-- [Jan 2022]	Our work "Hyperbolic Neural Networks for Molecular Generation" is now public on arXiv.
-- [Aug 2021]	Duke Kunshuan University reported our work in the news [here](https://dku.edu.cn/en/news/data-science-undergraduates-first-published-research-comes-years-passion-computing).
-- [Apr 2021]	Our wrok "Quantifying Nanoparticle Assembly States in a Polymer Matrix through Deep Learning" is accepted by Macromolecules! :tada:
+- [Jan 2022]	Our work "Lorentzian Fully Hyperbolic Generative Adversarial Network" is now public on arXiv.
+- [Aug 2021]	Duke Kunshan University reported our work in the news [here](https://dku.edu.cn/en/news/data-science-undergraduates-first-published-research-comes-years-passion-computing).
+- [Apr 2021]	Our work "Quantifying Nanoparticle Assembly States in a Polymer Matrix through Deep Learning" is accepted by Macromolecules! :tada:
 
 
 <!-- ## Education
@@ -47,7 +47,7 @@ Sept 2019 - Present -->
 
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 
-  <span style="font-size:20px">**Hyperbolic Neural Networks for Molecular Generation**</span>
+  <span style="font-size:20px">**Lorentzian Fully Hyperbolic Generative Adversarial Network**</span>
 
   *arXiv:2201.12825, 2022*
 
