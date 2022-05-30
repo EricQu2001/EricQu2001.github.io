@@ -95,6 +95,18 @@ Sept 2019 - Present -->
 
 ## Experiences
 
+<ExpCard image="/logo/ms.pdf">
+
+  <span style="font-size:22px">**Research Intern**</span>
+
+  Shanghai AI Lab,                  
+  Microsoft Research Asia
+
+  <span style="color:grey;font-size:16px;">May 2022 - Aug 2022 &middot; Shanghai, China</span>
+
+</ExpCard>
+
+
 <ExpCard image="/logo/DKU.png">
 
   <span style="font-size:22px">**Teaching Assistant**</span>
