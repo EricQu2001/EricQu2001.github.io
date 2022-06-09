@@ -65,7 +65,19 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
   
-  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://dku.edu.cn/en/news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
+  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://news.dukekunshan.edu.cn/research-news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/track.png" hideBorder=true>
+
+  <span style="font-size:20px">***In-situ* AFM tracking of Nanoparticle Diffusion in Semicrystalline Polymers**</span>
+
+  *ACS Macro Lett. 2022, 11, XXX, 818–824, (2022)*
+
+  <span style="color:grey;font-size:16px">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Kai Zhang, Max Yueqian Lin, **Eric Qu**, Sanat K. Kumar, Linda S. Schadler</span>
+
+  [[Link](https://pubs.acs.org/doi/10.1021/acsmacrolett.1c00778)]
 
 </ProjectCard>
 

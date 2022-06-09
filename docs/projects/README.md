@@ -32,7 +32,21 @@ Here are some works of mine :books:
 
   <span style="font-size:16px">We develop and apply a deep-learning based image analysis method to quantify the distribution of spherical NPs in a polymer matrix directly from their real-space TEM images.</span>
   
-  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://dku.edu.cn/en/news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
+  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://news.dukekunshan.edu.cn/research-news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/track.png" hideBorder=true>
+
+  <span style="font-size:18px">***In-situ* AFM tracking of Nanoparticle Diffusion in Semicrystalline Polymers**</span>
+
+  *ACS Macro Lett. 2022, 11, XXX, 818–824, (2022)*
+
+  <span style="color:grey;font-size:14px">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Kai Zhang, Max Yueqian Lin, **Eric Qu**, Sanat K. Kumar, Linda S. Schadler</span>
+
+  <span style="font-size:16px">We design a model for detecting and tracking the drift of nanoparticles in TEM videos.</span>
+
+  [[Link](https://pubs.acs.org/doi/10.1021/acsmacrolett.1c00778)]
 
 </ProjectCard>
 
@@ -65,16 +79,6 @@ Here are some works of mine :books:
   <span style="color:grey">**Eric Qu**, Anish Kumar Nayak, Tejus Shastry, Sanat K. Kumar, Kai Zhang</span>
 
   <span style="font-size:16px">We propose a deep learning model for detecting square objects. The square objects could have different orientations, which means that the result of old coordinate aligned bounding boxes is not uniform and representative. We change the bounding boxes to be bounding circles in YOLO and use the model to detect the position an size of DNA nanoCrystals.</span>
-
-</ProjectCard>
-
-<ProjectCard image="/projects/tracking.png" hideBorder=true>
-
-  <span style="font-size:18px">***In-situ* AFM tracking of Nanoparticle Diffusion in Semicrystalline Polymers**</span>
-
-  <span style="color:grey">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Kai Zhang, Max Yueqian Lin, **Eric Qu**, Sanat K. Kumar, Linda S. Schadler</span>
-
-  <span style="font-size:16px">We design a model for detecting and tracking the drift of nanoparticles in TEM videos.</span>
 
 </ProjectCard>
 
