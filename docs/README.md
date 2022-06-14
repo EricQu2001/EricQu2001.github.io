@@ -184,9 +184,9 @@ Sept 2019 - Present -->
 - <p style="text-align:left;font-size:18px;">
       Dean's List - Duke Kunshan University
       <span style="float:right;">
-          Fall 2019, Fall 2020, Sring 2021, Fall 2021, Spring 2022
+          Fall 2019, Fall 2020, Sring 2021,<br> Fall 2021, Spring 2022
       </span>
-  </p>
+  </p> <br>
 
 -	<p style="text-align:left;font-size:18px;">
 	    Summer Research Scholar - Duke Kunshan University
@@ -208,7 +208,8 @@ Sept 2019 - Present -->
 	        Mar 2019
 	    </span>
 	</p>
-	- China region 2<sup>nd</sup>, World 35<sup>th</sup>
+	- China region 2<sup>nd</sup>, World 35<sup>th</sup> 
+<p style="margin:.25em;"></p>
 
 - <p style="text-align:left;font-size:18px;">
       China National Olympiad in Informatics Senior Group, Frist prize
