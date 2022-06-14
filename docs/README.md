@@ -25,7 +25,7 @@ email: zq32 [at] duke [dot] edu
 
 ## About Me
 
-I am a junior undergraduate student at [Duke Kunshan University](https://dku.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
+I am a junior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
 
 My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. I also have experience in reinforcement learning and computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
@@ -49,10 +49,10 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Lorentzian Fully Hyperbolic Generative Adversarial Network**</span>
 
-  *arXiv:2201.12825, 2022*
+  *arXiv:2201.12825, (2022)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
-  
+
   [[arXiv](https://arxiv.org/abs/2201.12825)] [[Code](https://github.com/yhzq/HJTGAN)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
@@ -64,7 +64,7 @@ Sept 2019 - Present -->
   *Macromolecules, 54 (7), 3034-3040, (2021)*
 
   <span style="color:grey">**Eric Qu**, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
-  
+
   [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://news.dukekunshan.edu.cn/research-news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
 
 </ProjectCard>
@@ -181,10 +181,17 @@ Sept 2019 - Present -->
 
 ## Awards & Honors
 
+- <p style="text-align:left;font-size:18px;">
+      Dean's List - Duke Kunshan University
+      <span style="float:right;">
+          Fall 2019, Fall 2020, Sring 2021, Fall 2021, Spring 2022
+      </span>
+  </p>
+
 -	<p style="text-align:left;font-size:18px;">
 	    Summer Research Scholar - Duke Kunshan University
 	    <span style="float:right;">
-	        Jun 2020
+	        Jun 2020, Jun 2022
 	    </span>
 	</p>
 
@@ -202,6 +209,14 @@ Sept 2019 - Present -->
 	    </span>
 	</p>
 	- China region 2<sup>nd</sup>, World 35<sup>th</sup>
+
+- <p style="text-align:left;font-size:18px;">
+      China National Olympiad in Informatics Senior Group, Frist prize
+      <span style="float:right;">
+          2016, 2017
+      </span>
+  </p>
+
 
 
 <!-- Custom style for this page -->
