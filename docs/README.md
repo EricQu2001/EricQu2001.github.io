@@ -73,9 +73,9 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">***In-situ* AFM tracking of Nanoparticle Diffusion in Semicrystalline Polymers**</span>
 
-  *ACS Macro Lett. 2022, 11, XXX, 818–824, (2022)*
+  *ACS Macro Lett. 2022, 11, 6, 818–824, (2022)*
 
-  <span style="color:grey;font-size:16px">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Kai Zhang, Max Yueqian Lin, **Eric Qu**, Sanat K. Kumar, Linda S. Schadler</span>
+  <span style="color:grey;font-size:16px">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Max Yueqian Lin, **Eric Qu**, Kai Zhang, Sanat K. Kumar, Linda S. Schadler</span>
 
   [[Link](https://pubs.acs.org/doi/10.1021/acsmacrolett.1c00778)]
 
