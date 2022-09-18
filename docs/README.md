@@ -45,6 +45,16 @@ Sept 2019 - Present -->
 
 ## Publications
 
+<ProjectCard image="/projects/kpgnn.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
+
+  *TBA*
+
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
+
+</ProjectCard>
+
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Lorentzian Fully Hyperbolic Generative Adversarial Network**</span>
@@ -73,7 +83,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">***In-situ* AFM tracking of Nanoparticle Diffusion in Semicrystalline Polymers**</span>
 
-  *ACS Macro Lett. 2022, 11, 6, 818–824, (2022)*
+  *ACS Macro Lett. Z2022, 11, 6, 818–824, (2022)*
 
   <span style="color:grey;font-size:16px">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Max Yueqian Lin, **Eric Qu**, Kai Zhang, Sanat K. Kumar, Linda S. Schadler</span>
 
