@@ -25,7 +25,7 @@ email: zq32 [at] duke [dot] edu
 
 ## About Me
 
-I am a junior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
+I am a senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
 
 My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. I also have experience in reinforcement learning and computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
