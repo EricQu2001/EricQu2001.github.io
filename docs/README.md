@@ -121,8 +121,8 @@ Sept 2019 - Present -->
 
   <span style="font-size:22px">**Exchange Student**</span>
 
-  Duke University                  
-                   
+  Fall 2022,                           
+  Duke University
 
   <span style="color:grey;font-size:16px;">Aug 2022 - Dec 2022 &middot; Durham, USA</span>
 
