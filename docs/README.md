@@ -45,7 +45,7 @@ Sept 2019 - Present -->
 
 ## Publications
 
-<ProjectCard image="/projects/kpgnn.pdf" hideBorder=true>
+<!-- <ProjectCard image="/projects/kpgnn.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
 
@@ -53,7 +53,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-</ProjectCard>
+</ProjectCard> -->
 
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 

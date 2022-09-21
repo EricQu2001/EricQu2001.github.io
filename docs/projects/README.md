@@ -83,7 +83,19 @@ Here are some works of mine :books:
 
 </ProjectCard>
 
-<ProjectCard image="/projects/cell.png" hideBorder=true>
+<ProjectCard image="/projects/manifold.jpeg" hideBorder=true>
+
+  <span style="font-size:18px">**Class Note for DKU MATH 408: Differential Geometry**</span>
+
+  <span style="color:grey">**Eric Qu**</span>
+
+  <span style="font-size:16px">A well organized class note for differential geometry.</span>
+
+  [[Note](/projects/math408.pdf)]
+
+</ProjectCard>
+
+<!-- <ProjectCard image="/projects/cell.png" hideBorder=true>
 
   <span style="font-size:18px">**Accurate Cell Segmentation through Vision Transformer**</span>
 
@@ -91,9 +103,9 @@ Here are some works of mine :books:
 
   <span style="font-size:16px">We use a modified version of vision transformer to enable accurate cell segmentation. Our model use Swin transformer as backbone and a novel transformer architecture as segment head. This enables it to achieve ultrahigh accuracy in the instance segment of crowded and repeated objects.</span>
 
-</ProjectCard>
+</ProjectCard> -->
 
-<ProjectCard image="/projects/bird.png" hideBorder=true>
+<!-- <ProjectCard image="/projects/bird.png" hideBorder=true>
 
   <span style="font-size:18px">**Use Reinforcement Learning to Play Flappy Bird**</span>
 
@@ -103,7 +115,7 @@ Here are some works of mine :books:
 
   [[Demo](/projects/rldemo)] [[Slides](/projects/RLSlides.pdf)]
 
-</ProjectCard>
+</ProjectCard> -->
 
 <style lang="stylus">
 
