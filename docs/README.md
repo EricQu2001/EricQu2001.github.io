@@ -117,6 +117,16 @@ Sept 2019 - Present -->
 
 ## Experiences
 
+<ExpCard image="/logo/duke.pdf">
+
+  <span style="font-size:22px">**Exchange Student**</span>
+
+  Duke University
+
+  <span style="color:grey;font-size:16px;">Aug 2022 - Dec 2022 &middot; Durham, USA</span>
+
+</ExpCard>
+
 <ExpCard image="/logo/ms.pdf">
 
   <span style="font-size:22px">**Research Intern**</span>
