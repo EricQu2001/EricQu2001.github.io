@@ -23,7 +23,7 @@
       </div>
       <div v-if="data.cv">
         <a target="_blank" :href="data.cv" title="Download my CV in PDF">
-          <font size="2em" color=""><b>[CV]</b></font>
+          <font size="3em" color="" ><b><u>[Curriculum Vitae]</u></b></font>
         </a>
       </div>
     </div>
