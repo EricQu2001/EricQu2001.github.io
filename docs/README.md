@@ -54,7 +54,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
 
-  *Preprint (2022)*
+  *Preprint (2022)* (Submitted to AISTATS 2023)
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
@@ -78,7 +78,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
 
-  *Preprint (2022)*
+  *Preprint (2022)* (Submitted to ICLR 2023)
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
@@ -90,7 +90,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
 
-  *arXiv:2201.12825, (2022)*
+  *arXiv:2201.12825, (2022)* (Submitted to ICLR 2023)
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
