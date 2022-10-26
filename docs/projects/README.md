@@ -6,19 +6,62 @@ pageClass: projects-page
 
 Here are some works of mine :books:
 
-## Publications
+## Publications & Manuscripts
 
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 
-  <span style="font-size:18px">**Lorentzian Fully Hyperbolic Generative Adversarial Network**</span>
+  <span style="font-size:18px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
 
-  *arXiv:2201.12825, 2022*
+  *arXiv:2201.12825, (2022)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
   
-  <span style="font-size:16px">We propose a hyperbolic generative adversarial network (GAN) for generating hyperbolic data, and verified it using synthetic datasets. Moreover, we construct  HAEGAN using a combination of hyperbolic GAN and autoencoder. Experiments show that HAEGAN is able to generate complex data with state-of-the-art performance.</span>
+  <span style="font-size:16px">We propose a generative model (HAEGAN) in hyperbolic space that is capable of generating complex data. Many specific operations and layers were proposed to ensure numerical stability. HAEGAN outperfroms SOTA in structure-related performance of the molecular generation experiment.</span>
   
-  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Code](https://github.com/yhzq/HJTGAN)] [[Slides](/projects/HJTGANSlides.pdf)]
+  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Slides](/projects/HJTGANSlides.pdf)]
+
+</ProjectCard>
+
+
+<ProjectCard image="/projects/hcat.pdf" hideBorder=true>
+
+  <span style="font-size:18px">**Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks**</span>
+
+  *NeurIPS NuerReps Workshop, **Poster**, (2022)*
+
+  <span style="font-size:16px">We discussed an operation proposed in the HAEGAN paper, the Lorentz Direct Concatenation. Compared with concatenating in the tangent space, our method is more stable and better at preserving the hyperbolic distance. </span>
+
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
+
+  [[Preprint]()]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/hknet.pdf" hideBorder=true>
+
+  <span style="font-size:18px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
+
+  *Preprint (2022)*
+
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
+
+  <span style="font-size:16px">We constructed a novel hyperbolic convolution operation (HKConv), which first correlates trainable local hyperbolic features with fixed hyperbolic kernel points, then aggregates the output features within a local neighborhood. HKConv enjoys equivariance to permutation of input and invariance to parallel transport of a local neighborhood.</span>
+
+  [[Preprint](/projects/HKNet_Preprint.pdf)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/continuity.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
+
+  *Preprint (2022)*
+
+  <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
+
+  <span style="font-size:16px">We discovered empirically and theoretically proved that many sequence models have different assumptions about the continuity of the input sequence. To utilize this property, we designed a regularizer that could alter the continuity of the input sequence and showed its effectiveness in various sequence models.</span>
+
+  [[Preprint]()]
 
 </ProjectCard>
 
@@ -32,7 +75,7 @@ Here are some works of mine :books:
 
   <span style="font-size:16px">We develop and apply a deep-learning based image analysis method to quantify the distribution of spherical NPs in a polymer matrix directly from their real-space TEM images.</span>
   
-  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://news.dukekunshan.edu.cn/research-news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
+  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[News](https://www.timeshighereducation.com/hub/p/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
 
 </ProjectCard>
 
@@ -51,35 +94,39 @@ Here are some works of mine :books:
 
 </ProjectCard>
 
-## Manuscripts & Projects <span style="color:grey;font-size:16px;">*( <sup>\*</sup> indicates equal contribution)*</span>
+## Projects <span style="color:grey;font-size:16px;">*( <sup>\*</sup> indicates equal contribution)*</span>
 
 <ProjectCard image="/projects/packing.pdf" hideBorder=true>
 
-  <span style="font-size:18px">**Solving Sticky Hard Sphere Packing Problem through Reinforcement Learning and Graph Neutral Networks**</span>
+  <span style="font-size:18px">**Solving Sticky Hard Sphere Packing Problem through Deep Learning**</span>
 
   <span style="color:grey">**Eric Qu**, Kai Zhang, Dongmian Zou</span>
 
-  <span style="font-size:16px">We propose a method of solving sticky hard sphere packing problem. The packing state of the spheres could be mapped to a graph according to the sphere connections. A modified version of Graph Isomorphism Network is trained to identify the valid packing with high accuracy. Then, we train a Mento Carlo Search Tree to generate new packings with the reward based on perviously trained GIN.</span>
+  <!-- <span style="font-size:16px">We propose a method of solving sticky hard sphere packing problem. The packing state of the spheres could be mapped to a graph according to the sphere connections. A modified version of Graph Isomorphism Network is trained to identify the valid packing with high accuracy. Then, we train a Mento Carlo Search Tree to generate new packings with the reward based on perviously trained GIN.</span> -->
+
+  <span style="font-size:16px">Sticky hard sphere packing is a challenging problem in physics. In our method, we first map the packing state into a graph and use a modified Graph Isomorphism Network (GIN) to identify the valid packing with high accuracy. Then, a Mento Carlo Search Tree is trained to generate new packings with the reward based on the GIN.</span>
 
 </ProjectCard>
 
 <ProjectCard image="/projects/KPAE.png" hideBorder=true>
 
-  <span style="font-size:18px">**Finding Optimal Order Parameter for Particle Systems**</span>
+  <span style="font-size:18px">**Finding Optimal Order Parameter for Monodisperse Systems**</span>
 
   <span style="color:grey">**Eric Qu**, Max Yueqian Lin, Kai Zhang</span>
 
-  <span style="font-size:16px">We develop a model to find the optimal order parameter for particle packing systems. The packing state is represented by the 3D point cloud data. We proposed a novel Kernel Point Autoencoder model using KPConv as encoder and our Kernel Point Generator as decoder. Then, the bottleneck layer is extracted to be the order parameter.</span>
+  <!-- <span style="font-size:16px">We develop a model to find the optimal order parameter for particle packing systems. The packing state is represented by the 3D point cloud data. We proposed a novel Kernel Point Autoencoder model using KPConv as encoder and our Kernel Point Generator as decoder. Then, the bottleneck layer is extracted to be the order parameter.</span> -->
+
+  <span style="font-size:16px">Order parameter of a particle system describes whither it is more crystal-like or glass-like. The packing state could be represented by 3D point cloud. We proposed a novel Kernel Point Autoencoder model using KPConv as encoder and our Kernel Point Generator as decoder. Then, the bottleneck activation is extracted to be the order parameter.</span>
 
 </ProjectCard>
 
-<ProjectCard image="/projects/circle.png" hideBorder=true>
+<!-- <ProjectCard image="/projects/circle.png" hideBorder=true>
 
   <span style="font-size:18px">**Square Object Detection using Bounding Circles**</span>
 
   <span style="color:grey">**Eric Qu**, Anish Kumar Nayak, Tejus Shastry, Sanat K. Kumar, Kai Zhang</span>
 
-  <span style="font-size:16px">We propose a deep learning model for detecting square objects. The square objects could have different orientations, which means that the result of old coordinate aligned bounding boxes is not uniform and representative. We change the bounding boxes to be bounding circles in YOLO and use the model to detect the position an size of DNA nanoCrystals.</span>
+  <span style="font-size:16px">We propose a deep learning model for detecting square objects. The square objects could have different orientations, which means that the result of old coordinate aligned bounding boxes is not uniform and representative. We change the bounding boxes to be bounding circles in YOLO and use the model to detect the position an size of DNA nanoCrystals.</span> -->
 
 </ProjectCard>
 

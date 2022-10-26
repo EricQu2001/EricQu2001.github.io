@@ -25,17 +25,22 @@ email: zq32 [at] duke [dot] edu
 
 ## About Me
 
-I am a senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people).
+I am a senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I am also a research intern of Microsoft Research Aisa, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) lead by [Dongsheng Li](http://recmind.cn).
 
-My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Neural Networks**, and **Generative Models**. I also have experience in reinforcement learning and computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
+My research interest mainly falls on **Geometric Deep Learning**, **Representation Learning**, and **Graph Neural Networks**. I also have experience in sequence modeling, reinforcement learning, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
 
 ## News
 
-- [Jan 2022]	Our work "Lorentzian Fully Hyperbolic Generative Adversarial Network" is now public on arXiv.
-- [Aug 2021]	Duke Kunshan University reported our work in the news [here](https://news.dukekunshan.edu.cn/research-news/data-science-undergraduates-first-published-research-comes-years-passion-computing).
-- [Apr 2021]	Our work "Quantifying Nanoparticle Assembly States in a Polymer Matrix through Deep Learning" is accepted by Macromolecules! :tada:
+<span style="font-size:17px">
 
+- [Oct 2022]  Our work "Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks" is accepted (Poster) by NuerIPS'22 NeurReps Workshop! :tada:
+- [May 2022]  I joined as a research intern in Microsoft Research Asia. :man_office_worker:
+<!-- - [Jan 2022]	Our work "Lorentzian Fully Hyperbolic Generative Adversarial Network" is now public on arXiv. -->
+- [Aug 2021]	Duke Kunshan University (Times Higher Education) reported our work in the news [here](https://www.timeshighereducation.com/hub/p/data-science-undergraduates-first-published-research-comes-years-passion-computing).
+<!-- - [Apr 2021]	Our work "Quantifying Nanoparticle Assembly States in a Polymer Matrix through Deep Learning" is accepted by Macromolecules! :tada: -->
+
+</span>
 
 <!-- ## Education
 
@@ -43,27 +48,53 @@ My research interest mainly falls on **Hyperbolic Machine Learning**, **Graph Ne
 Sept 2019 - Present -->
 
 
-## Publications
+## Publications & Manuscripts
 
-<!-- <ProjectCard image="/projects/kpgnn.pdf" hideBorder=true>
+<ProjectCard image="/projects/hknet.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
 
-  *TBA*
+  *Preprint (2022)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-</ProjectCard> -->
+  [[Preprint](/projects/HKNet_Preprint.pdf)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/hcat.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks**</span>
+
+  *NeurIPS NeurReps Workshop, **Poster**, (2022)*
+
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
+
+  [[Preprint]()]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/continuity.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
+
+  *Preprint (2022)*
+
+  <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
+
+  [[Preprint]()]
+
+</ProjectCard>
 
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 
-  <span style="font-size:20px">**Lorentzian Fully Hyperbolic Generative Adversarial Network**</span>
+  <span style="font-size:20px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
 
   *arXiv:2201.12825, (2022)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Code](https://github.com/yhzq/HJTGAN)] [[Slides](/projects/HJTGANSlides.pdf)]
+  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
@@ -75,7 +106,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Andrew Matthew Jimenez, Sanat K. Kumar, Kai Zhang</span>
 
-  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[DKU News](https://news.dukekunshan.edu.cn/research-news/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
+  [[Link](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c02483)] [[Code](https://github.com/yhzq/Quantifying-Nanoparticle-Assembly-States-Through-Deep-Learning)] [[Dataset](https://dopad.github.io)] [[News](https://www.timeshighereducation.com/hub/p/data-science-undergraduates-first-published-research-comes-years-passion-computing)]
 
 </ProjectCard>
 
@@ -83,7 +114,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">***In-situ* AFM tracking of Nanoparticle Diffusion in Semicrystalline Polymers**</span>
 
-  *ACS Macro Lett. Z2022, 11, 6, 818–824, (2022)*
+  *ACS Macro Lett. 2022, 11, 6, 818–824, (2022)*
 
   <span style="color:grey;font-size:16px">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Max Yueqian Lin, **Eric Qu**, Kai Zhang, Sanat K. Kumar, Linda S. Schadler</span>
 
@@ -91,11 +122,11 @@ Sept 2019 - Present -->
 
 </ProjectCard>
 
-## Manuscripts & Projects
+## Projects
 
 <ProjectCard image="/projects/packing.pdf" hideBorder=true>
 
-  <span style="font-size:20px">**Solving Sticky Hard Sphere Packing Problem through Reinforcement Learning and Graph Neutral Networks**</span>
+  <span style="font-size:20px">**Solving Sticky Hard Sphere Packing Problem through Deep Learning**</span>
 
   *May 2021*
 
@@ -105,7 +136,7 @@ Sept 2019 - Present -->
 
 <ProjectCard image="/projects/KPAE.png" hideBorder=true>
 
-  <span style="font-size:20px">**Finding Optimal Order Parameter for Particle Systems**</span>
+  <span style="font-size:20px">**Finding Optimal Order Parameter for Monodisperse Systems**</span>
 
   *Oct 2021*
 
