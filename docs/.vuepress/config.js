@@ -1,7 +1,19 @@
 module.exports = {
   title: "Eric Qu",
   description: "Eric's personal website.",
-  head: [["link", { rel: "icon", href: `/logo.png` }]],
+  head: [ ["link", { rel: "icon", href: `/logo.png` }],
+          ['script', {
+              async: true,
+              src: 'https://www.googletagmanager.com/gtag/js?id=UA-248533145-1'
+          }],
+          ['script', {}, `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+          
+              gtag('config', 'UA-248533145-1');
+          `]
+          ],
   base: "/",
   dest: "./dist",
 
@@ -26,13 +38,7 @@ module.exports = {
     extendMarkdown: md => {
       md.use(require("markdown-it-katex"));
     }
-  },
-
-  plugins: [
-      ['@vuepress/plugin-google-analytics', {
-          'ga': 'G-8DSNK9BZEG' // UA-XXXXXXXXX-X
-      }]
-  ],
+  }
 };
 
 // function genSidebarConfig (title) {

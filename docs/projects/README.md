@@ -29,9 +29,9 @@ Here are some works of mine :books:
 
   *NeurIPS NuerReps Workshop, **Poster**, (2022)*
 
-  <span style="font-size:16px">We discussed an operation proposed in the HAEGAN paper, the Lorentz Direct Concatenation. Compared with concatenating in the tangent space, our method is more stable and better at preserving the hyperbolic distance. </span>
-
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
+
+  <span style="font-size:16px">We discussed an operation proposed in the HAEGAN paper, the Lorentz Direct Concatenation. Compared with concatenating in the tangent space, our method is more stable and better at preserving the hyperbolic distance. </span>
 
   [[Preprint](https://openreview.net/pdf?id=wjtJ1T1DXME)]
 
