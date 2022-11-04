@@ -58,7 +58,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint](/projects/HKNet_Preprint.pdf)]
+  [[Preprint](/projects/HKNet_Preprint.pdf)] [[Poster](/projects/HKNet_Poster.pdf)]
 
 </ProjectCard>
 
@@ -70,7 +70,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint]()]
+  [[Preprint](https://openreview.net/pdf?id=wjtJ1T1DXME)]
 
 </ProjectCard>
 
@@ -94,7 +94,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Slides](/projects/HJTGANSlides.pdf)]
+  [[Preprint](/projects/HAEGAN.pdf)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 

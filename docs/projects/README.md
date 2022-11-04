@@ -18,7 +18,7 @@ Here are some works of mine :books:
   
   <span style="font-size:16px">We propose a generative model (HAEGAN) in hyperbolic space that is capable of generating complex data. Many specific operations and layers were proposed to ensure numerical stability. HAEGAN outperfroms SOTA in structure-related performance of the molecular generation experiment.</span>
   
-  [[arXiv](https://arxiv.org/abs/2201.12825)] [[Slides](/projects/HJTGANSlides.pdf)]
+  [[Preprint](/projects/HAEGAN.pdf)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
@@ -33,7 +33,7 @@ Here are some works of mine :books:
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint]()]
+  [[Preprint](https://openreview.net/pdf?id=wjtJ1T1DXME)]
 
 </ProjectCard>
 
@@ -47,7 +47,7 @@ Here are some works of mine :books:
 
   <span style="font-size:16px">We constructed a novel hyperbolic convolution operation (HKConv), which first correlates trainable local hyperbolic features with fixed hyperbolic kernel points, then aggregates the output features within a local neighborhood. HKConv enjoys equivariance to permutation of input and invariance to parallel transport of a local neighborhood.</span>
 
-  [[Preprint](/projects/HKNet_Preprint.pdf)]
+  [[Preprint](/projects/HKNet_Preprint.pdf)] [[Poster](/projects/HKNet_Poster.pdf)]
 
 </ProjectCard>
 
