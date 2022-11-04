@@ -26,7 +26,13 @@ module.exports = {
     extendMarkdown: md => {
       md.use(require("markdown-it-katex"));
     }
-  }
+  },
+
+  plugins: [
+      ['@vuepress/plugin-google-analytics', {
+          'ga': 'G-8DSNK9BZEG' // UA-XXXXXXXXX-X
+      }]
+  ],
 };
 
 // function genSidebarConfig (title) {
