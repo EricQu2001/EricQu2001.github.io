@@ -78,11 +78,11 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
 
-  *Preprint (Submitted to ICLR 2023)*
+  *Preprint (Submitted to ICLR 2023, Score 8/6/6/6)*
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
-  [[Preprint]()]
+  [[Preprint](https://openreview.net/forum?id=27uBgHuoSQ)]
 
 </ProjectCard>
 
@@ -90,11 +90,11 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
 
-  *arXiv:2201.12825, (Submitted to ICLR 2023)*
+  *arXiv:2201.12825, (Submitted to ICLR 2023, Score 6/6/3)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint](/projects/HAEGAN.pdf)] [[Slides](/projects/HJTGANSlides.pdf)]
+  [[Preprint](https://openreview.net/forum?id=pmUH7A8wZz)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
@@ -163,19 +163,18 @@ Sept 2019 - Present -->
 
   <span style="font-size:22px">**Research Intern**</span>
 
-  Shanghai AI Lab,                  
+  [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/),                  
   Microsoft Research Asia
 
-  <span style="color:grey;font-size:16px;">May 2022 - Aug 2022 &middot; Shanghai, China</span>
+  <span style="color:grey;font-size:16px;">May 2022 - Present &middot; Shanghai, China</span>
 
 </ExpCard>
-
 
 <ExpCard image="/logo/DKU.png">
 
   <span style="font-size:22px">**Teaching Assistant**</span>
 
-  STATS 303 Statistical Machine Learning,                      
+  STATS 303 Statistical Machine Learning,                                 
   Duke Kunshan University
 
   <span style="color:grey;font-size:16px;">Jan 2022 - May 2022 &middot; Jiangsu, China</span>
@@ -210,7 +209,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:22px">**Research Assistant**</span>
 
-  Kumar Research Group,                      
+  [Kumar Research Group](http://www.columbia.edu/cu/kumargroup/),                      
   Columbia University
 
   <span style="color:grey;font-size:16px;">Apr 2020 - Nov 2021 &middot; Remote</span>
