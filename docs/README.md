@@ -70,7 +70,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint](https://openreview.net/pdf?id=wjtJ1T1DXME)]
+  [[Link](https://openreview.net/forum?id=wjtJ1T1DXME)]
 
 </ProjectCard>
 

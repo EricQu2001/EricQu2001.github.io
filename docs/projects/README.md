@@ -33,7 +33,7 @@ Here are some works of mine :books:
 
   <span style="font-size:16px">We discussed an operation proposed in the HAEGAN paper, the Lorentz Direct Concatenation. Compared with concatenating in the tangent space, our method is more stable and better at preserving the hyperbolic distance. </span>
 
-  [[Preprint](https://openreview.net/pdf?id=wjtJ1T1DXME)]
+  [[Link](https://openreview.net/forum?id=wjtJ1T1DXME)]
 
 </ProjectCard>
 
