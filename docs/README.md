@@ -25,7 +25,7 @@ email: zq32 [at] duke [dot] edu
 
 ## About Me
 
-I am a senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majored in **Data Science**. Currently, I am doing machine learning research mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I am also a research intern of Microsoft Research Aisa, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) lead by [Dongsheng Li](http://recmind.cn).
+I am a senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majoring in **Data Science**. Currently, I am doing machine learning research mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I am also a research intern at Microsoft Research Aisa, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
 
 My research interest mainly falls on **Geometric Deep Learning**, **Representation Learning**, and **Graph Neural Networks**. I also have experience in sequence modeling, reinforcement learning, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
@@ -78,7 +78,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
 
-  *Preprint (Submitted to ICLR 2023, Score 8/6/6/6)*
+  *Preprint (Submitted to ICLR 2023, Score 8/6/6/6 **Top 10%**)*
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
