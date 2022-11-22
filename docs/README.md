@@ -50,15 +50,27 @@ Sept 2019 - Present -->
 
 ## Publications & Manuscripts
 
+<ProjectCard image="/projects/continuity.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
+
+  *Preprint (Submitted to ICLR 2023, Score 8/6/6/6 **Top 10%**)*
+
+  <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
+
+  [[OpenReview](https://openreview.net/forum?id=27uBgHuoSQ)] [[Preprint](/projects/Lip.pdf)] [[Code](/projects/LipRegCode.zip)]
+
+</ProjectCard>
+
 <ProjectCard image="/projects/hknet.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
 
-  *Preprint (Submitted to AISTATS 2023)*
+  *Preprint (Submitted to AISTATS 2023, Score 7/6/6)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint](/projects/HKNet_Preprint.pdf)] [[Poster](/projects/HKNet_Poster.pdf)]
+  [[Preprint](/projects/HKNet_Preprint.pdf)] [[Code](/projects/HKNetCode.zip)] [[Poster](/projects/HKNet_Poster.pdf)]
 
 </ProjectCard>
 
@@ -74,18 +86,6 @@ Sept 2019 - Present -->
 
 </ProjectCard>
 
-<ProjectCard image="/projects/continuity.pdf" hideBorder=true>
-
-  <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
-
-  *Preprint (Submitted to ICLR 2023, Score 8/6/6/6 **Top 10%**)*
-
-  <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
-
-  [[Preprint](https://openreview.net/forum?id=27uBgHuoSQ)]
-
-</ProjectCard>
-
 <ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
@@ -94,7 +94,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint](https://openreview.net/forum?id=pmUH7A8wZz)] [[Slides](/projects/HJTGANSlides.pdf)]
+  [[OpenReview](https://openreview.net/forum?id=pmUH7A8wZz)] [[Preprint](/projects/HAEGAN.pdf)] [[Code](/projects/HAEGAN.zip)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
