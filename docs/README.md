@@ -14,7 +14,7 @@ socials:
     link: https://github.com/yhzq
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com/in/eric-qu-b5a079202/
+    link: https://www.linkedin.com/in/EricZQu
 
 cv: "/cv.pdf"
 bio: Student at Duke Kunshan University
@@ -82,7 +82,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Link](https://openreview.net/forum?id=wjtJ1T1DXME)]
+  [[Link](https://openreview.net/forum?id=wjtJ1T1DXME)] [[Poster](/projects/HCat_Poster.pdf)]
 
 </ProjectCard>
 
@@ -118,7 +118,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey;font-size:16px">Kamlesh Bornani, Nico Mendez, Abdullah S. Altorbaq, Alejandro Muller, Max Yueqian Lin, **Eric Qu**, Kai Zhang, Sanat K. Kumar, Linda S. Schadler</span>
 
-  [[Link](https://pubs.acs.org/doi/10.1021/acsmacrolett.1c00778)]
+  [[Link](https://pubs.acs.org/doi/10.1021/acsmacrolett.1c00778)] [[Code](https://github.com/linyueqian/Quantifying-nanopaticles-in-TEM-images-through-deep-learning)]
 
 </ProjectCard>
 
