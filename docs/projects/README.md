@@ -142,6 +142,19 @@ Here are some works of mine :books:
 
 </ProjectCard>
 
+<ProjectCard image="/projects/diss.jpeg" hideBorder=true>
+
+  <span style="font-size:18px">**Slides for Weekly Paper Reading Discussion**</span>
+
+  <span style="color:grey">**Eric Qu**</span>
+
+  <span style="font-size:16px">In each week, we hold a paper reading discussion to present our works or latest interesting works. Here are some of my sildes.</span>
+
+  [[HAEGAN](/projects/HJTGANSlides.pdf)] [[Diffusion Models](/projects/diffusion.pdf)] [[S4 Model](/projects/S4.pdf)] 
+
+</ProjectCard>
+
+
 <!-- <ProjectCard image="/projects/cell.png" hideBorder=true>
 
   <span style="font-size:18px">**Accurate Cell Segmentation through Vision Transformer**</span>
