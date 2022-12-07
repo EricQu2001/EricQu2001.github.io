@@ -142,7 +142,7 @@ Here are some works of mine :books:
 
 </ProjectCard>
 
-<ProjectCard image="/projects/diss.jpeg" hideBorder=true>
+<ProjectCard image="/projects/diss.pdf" hideBorder=true>
 
   <span style="font-size:18px">**Slides for Weekly Paper Reading Discussion**</span>
 
