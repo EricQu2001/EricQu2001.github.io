@@ -54,7 +54,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
 
-  *Preprint (Submitted to ICLR 2023, Score 8/6/6/6 **Top 10%**)*
+  *Preprint (Submitted to ICLR 2023, Score 8/8/6/6 **Top 5%**)*
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
