@@ -27,7 +27,7 @@ email: zq32 [at] duke [dot] edu
 
 I am a senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majoring in **Data Science**. Currently, I am doing machine learning research mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I am also a research intern at Microsoft Research Aisa, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
 
-My research interest mainly falls on **Geometric Deep Learning**, **Representation Learning**, and **Graph Neural Networks**. I also have experience in sequence modeling, reinforcement learning, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
+My research interest mainly falls on **Geometric Deep Learning** and **AI for Science**. I also have experience in sequence modeling, graph neural networks, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
 
 ## News
@@ -233,18 +233,25 @@ Sept 2019 - Present -->
 ## Awards & Honors
 
 - <p style="text-align:left;font-size:18px;">
+      Conference Travel Grant (NeurIPS 2022) - Duke Kunshan University
+      <span style="float:right;">
+          Dec 2022
+      </span>
+  </p>
+
+- <p style="text-align:left;font-size:18px;">
+      Summer Research Scholar - Duke Kunshan University
+      <span style="float:right;">
+          Jun 2020, Jun 2022
+      </span>
+  </p>
+
+- <p style="text-align:left;font-size:18px;">
       Dean's List - Duke Kunshan University
       <span style="float:right;">
           Fall 2019, Fall 2020, Sring 2021,<br> Fall 2021, Spring 2022
       </span>
   </p> <br>
-
--	<p style="text-align:left;font-size:18px;">
-	    Summer Research Scholar - Duke Kunshan University
-	    <span style="float:right;">
-	        Jun 2020, Jun 2022
-	    </span>
-	</p>
 
 -	<p style="text-align:left;font-size:18px;">
 	    Mathematical Contest In Modeling - Honorable Mention
