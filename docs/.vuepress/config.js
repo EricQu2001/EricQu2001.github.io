@@ -24,7 +24,7 @@ module.exports = {
       // { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
       // { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/yhzq" }
+      { text: "GitHub", link: "https://github.com/EricZQu" }
     ],
     // sidebar: {
       // '/guide/': genSidebarConfig('Guide')

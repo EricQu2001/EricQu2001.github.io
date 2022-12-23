@@ -11,7 +11,7 @@ socials:
     link: https://scholar.google.com/citations?user=-qOBJlcAAAAJ&hl=en
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/yhzq
+    link: https://github.com/EricZQu
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/EricZQu
@@ -148,6 +148,17 @@ Sept 2019 - Present -->
 
 ## Experiences
 
+<ExpCard image="/logo/reps.jpg">
+
+  <span style="font-size:22px">**Poster Presentation**</span>
+
+  [NeurReps Workshop](https://www.neurreps.org/about),                           
+  NuerIPS 2022
+
+  <span style="color:grey;font-size:16px;">Dec 2022 &middot; New Orleans, USA</span>
+
+</ExpCard>
+
 <ExpCard image="/logo/duke.pdf">
 
   <span style="font-size:22px">**Exchange Student**</span>
@@ -181,7 +192,7 @@ Sept 2019 - Present -->
 
 </ExpCard>
 
-<ExpCard image="/logo/Sinopec.svg">
+<!-- <ExpCard image="/logo/Sinopec.svg">
 
   <span style="font-size:22px">**Research Intern**</span>
 
@@ -190,9 +201,9 @@ Sept 2019 - Present -->
 
   <span style="color:grey;font-size:16px;">Jun 2021 - Aug 2021 &middot; Shandong, China</span>
 
-</ExpCard>
+</ExpCard> -->
 
-<ExpCard image="/logo/DKU.png">
+<!-- <ExpCard image="/logo/DKU.png">
 
   <span style="font-size:22px">**Research Assistant**</span>
 
@@ -203,7 +214,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey;font-size:16px;">Mentored by [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou)</span>
 
-</ExpCard>
+</ExpCard> -->
 
 <ExpCard image="/logo/Columbia.png">
 
@@ -220,12 +231,12 @@ Sept 2019 - Present -->
 
   <span style="font-size:22px">**Research Assistant**</span>
 
-  Computational Soft Matter and Machine Learning Lab,     
+  <!-- Computational Soft Matter and Machine Learning Lab,      -->
   Duke Kunshan University
 
   <span style="color:grey;font-size:16px;">Nov 2019 - Present &middot; Jiangsu, China</span>
 
-  <span style="color:grey;font-size:16px;">Mentored by [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people)</span>
+  <span style="color:grey;font-size:16px;">Mentored by [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people) and [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) </span>
 
 </ExpCard>
 
