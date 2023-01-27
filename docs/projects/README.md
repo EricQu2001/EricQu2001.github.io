@@ -12,13 +12,27 @@ Here are some works of mine :books:
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
 
-  *Preprint (2022)*
+  *International Conference on Learning Representations (ICLR), **Spotlight** (2023)*
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
   <span style="font-size:16px">We discovered empirically and theoretically proved that many sequence models have different assumptions about the continuity of the input sequence. To utilize this property, we designed a regularizer that could alter the continuity of the input sequence and showed its effectiveness in various sequence models.</span>
 
-  [[OpenReview](https://openreview.net/forum?id=27uBgHuoSQ)] [[Preprint](/projects/Lip.pdf)] [[Code](/projects/LipRegCode.zip)]
+  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Preprint](/projects/Lip.pdf)] [[Code](/projects/LipRegCode.zip)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/hknet.pdf" hideBorder=true>
+
+  <span style="font-size:18px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
+
+  *Preprint (2022)*
+
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
+
+  <span style="font-size:16px">We constructed a novel hyperbolic convolution operation (HKConv), which first correlates trainable local hyperbolic features with fixed hyperbolic kernel points, then aggregates the output features within a local neighborhood. HKConv enjoys equivariance to permutation of input and invariance to parallel transport of a local neighborhood.</span>
+
+  [[Preprint](/projects/HKNet_Preprint.pdf)] [[Code](/projects/HKNetCode.zip)] [[Poster](/projects/HKNet_Poster.pdf)]
 
 </ProjectCard>
 
@@ -32,7 +46,7 @@ Here are some works of mine :books:
   
   <span style="font-size:16px">We propose a generative model (HAEGAN) in hyperbolic space that is capable of generating complex data. Many specific operations and layers were proposed to ensure numerical stability. HAEGAN outperfroms SOTA in structure-related performance of the molecular generation experiment.</span>
   
-  [[OpenReview](https://openreview.net/forum?id=pmUH7A8wZz)] [[Preprint](/projects/HAEGAN.pdf)] [[Code](/projects/HAEGAN.zip)] [[Slides](/projects/HJTGANSlides.pdf)]
+  [[Preprint](https://arxiv.org/abs/2201.12825)] [[Code](/projects/HAEGAN.zip)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
@@ -48,20 +62,6 @@ Here are some works of mine :books:
   <span style="font-size:16px">We discussed an operation proposed in the HAEGAN paper, the Lorentz Direct Concatenation. Compared with concatenating in the tangent space, our method is more stable and better at preserving the hyperbolic distance. </span>
 
   [[Link](https://openreview.net/forum?id=wjtJ1T1DXME)] [[Poster](/projects/HCat_Poster.pdf)]
-
-</ProjectCard>
-
-<ProjectCard image="/projects/hknet.pdf" hideBorder=true>
-
-  <span style="font-size:18px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
-
-  *Preprint (2022)*
-
-  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
-
-  <span style="font-size:16px">We constructed a novel hyperbolic convolution operation (HKConv), which first correlates trainable local hyperbolic features with fixed hyperbolic kernel points, then aggregates the output features within a local neighborhood. HKConv enjoys equivariance to permutation of input and invariance to parallel transport of a local neighborhood.</span>
-
-  [[Preprint](/projects/HKNet_Preprint.pdf)] [[Code](/projects/HKNetCode.zip)] [[Poster](/projects/HKNet_Poster.pdf)]
 
 </ProjectCard>
 

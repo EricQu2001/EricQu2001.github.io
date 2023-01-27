@@ -34,6 +34,7 @@ My research interest mainly falls on **Geometric Deep Learning** and **AI for Sc
 
 <span style="font-size:17px">
 
+- [Jan 2023]  Our work "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer" is accepted (Spotlight) by ICLR'23! :tada:
 - [Oct 2022]  Our work "Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks" is accepted (Poster) by NuerIPS'22 NeurReps Workshop! :tada:
 - [May 2022]  I joined as a research intern in Microsoft Research Asia. :man_office_worker:
 <!-- - [Jan 2022]	Our work "Lorentzian Fully Hyperbolic Generative Adversarial Network" is now public on arXiv. -->
@@ -54,11 +55,11 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
 
-  *Preprint (Submitted to ICLR 2023, Score 8/8/6/6 **Top 5%**)*
+  *ICLR 2023 **Spotlight** (Notable Top 25%)*
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
-  [[OpenReview](https://openreview.net/forum?id=27uBgHuoSQ)] [[Preprint](/projects/Lip.pdf)] [[Code](/projects/LipRegCode.zip)]
+  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Preprint](/projects/Lip.pdf)] [[Code](/projects/LipRegCode.zip)]
 
 </ProjectCard>
 
@@ -66,11 +67,23 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
 
-  *Preprint (Submitted to AISTATS 2023, Score 7/6/6)*
+  *Preprint (Submitted to ICML 2023)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
   [[Preprint](/projects/HKNet_Preprint.pdf)] [[Code](/projects/HKNetCode.zip)] [[Poster](/projects/HKNet_Poster.pdf)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
+
+  *arXiv:2201.12825, (Submitted to ICML 2023)*
+
+  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
+
+  [[Preprint](https://arxiv.org/abs/2201.12825)] [[Code](/projects/HAEGAN.zip)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
@@ -83,18 +96,6 @@ Sept 2019 - Present -->
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
   [[Link](https://openreview.net/forum?id=wjtJ1T1DXME)] [[Poster](/projects/HCat_Poster.pdf)]
-
-</ProjectCard>
-
-<ProjectCard image="/projects/HJTGAN.pdf" hideBorder=true>
-
-  <span style="font-size:20px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
-
-  *arXiv:2201.12825, (Submitted to ICLR 2023, Score 6/6/3)*
-
-  <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
-
-  [[OpenReview](https://openreview.net/forum?id=pmUH7A8wZz)] [[Preprint](/projects/HAEGAN.pdf)] [[Code](/projects/HAEGAN.zip)] [[Slides](/projects/HJTGANSlides.pdf)]
 
 </ProjectCard>
 
