@@ -29,11 +29,14 @@ I am a senior undergraduate student at [Duke Kunshan University](https://www.duk
 
 My research interest mainly falls on **Geometric Deep Learning** and **AI for Science**. I also have experience in sequence modeling, graph neural networks, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
+**I will attend ICLR 2023 at Kigali, Rwandan. Feel free to drop me an email if you want to chat with me.**
+
 
 ## News
 
 <span style="font-size:17px">
 
+- [Feb 2023]  I have been admitted to the **Ph.D. program of UC Berkeley, EECS**!
 - [Jan 2023]  Our work "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer" is accepted (Spotlight) by ICLR'23! :tada:
 - [Oct 2022]  Our work "Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks" is accepted (Poster) by NuerIPS'22 NeurReps Workshop! :tada:
 - [May 2022]  I joined as a research intern in Microsoft Research Asia. :man_office_worker:
