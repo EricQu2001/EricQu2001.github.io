@@ -17,17 +17,17 @@ socials:
     link: https://www.linkedin.com/in/EricZQu
 
 cv: "/cv.pdf"
-bio: Student at Duke Kunshan University
-email: zq32 [at] duke [dot] edu
+bio: Incoming PhD Student at UC Berkeley
+email: ericqu [at] berkeley [dot] edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I am a senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn) majoring in **Data Science**. Currently, I am doing machine learning research mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I am also a research intern at Microsoft Research Aisa, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
+I am an incoming Computer Science PhD Student at University of California, Berkeley. I revived my B.Sc. in Data Science from Duke University and Duke Kunshan University, where I was mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I am also a research intern at Microsoft Research Aisa, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
 
-My research interest mainly falls on **Geometric Deep Learning** and **AI for Science**. I also have experience in sequence modeling, graph neural networks, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
+My research interest mainly falls on **Geometric Deep Learning** and **AI for Science**. I also have experience in sequence modeling (LLMs), graph neural networks, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
 **I will attend ICLR 2023 at Kigali, Rwandan. Feel free to drop me an email if you want to chat with me.**
 
@@ -36,7 +36,7 @@ My research interest mainly falls on **Geometric Deep Learning** and **AI for Sc
 
 <span style="font-size:17px">
 
-- [Feb 2023]  I am admitted to the **Ph.D. program of UC Berkeley, EECS**!
+<!-- - [Feb 2023]  I am admitted to the **Ph.D. program of UC Berkeley, EECS**! -->
 - [Jan 2023]  Our work "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer" is accepted (Spotlight) by ICLR'23! :tada:
 - [Oct 2022]  Our work "Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks" is accepted (Poster) by NuerIPS'22 NeurReps Workshop! :tada:
 - [May 2022]  I joined as a research intern in Microsoft Research Asia. :man_office_worker:
@@ -62,7 +62,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
-  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Preprint](/projects/Lip.pdf)] [[Code](/projects/LipRegCode.zip)]
+  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Code](/LipReg)]
 
 </ProjectCard>
 
@@ -220,7 +220,7 @@ Sept 2019 - Present -->
 
 </ExpCard> -->
 
-<ExpCard image="/logo/Columbia.png">
+<!-- <ExpCard image="/logo/Columbia.png">
 
   <span style="font-size:22px">**Research Assistant**</span>
 
@@ -229,7 +229,7 @@ Sept 2019 - Present -->
 
   <span style="color:grey;font-size:16px;">Apr 2020 - Nov 2021 &middot; Remote</span>
 
-</ExpCard>
+</ExpCard> -->
 
 <ExpCard image="/logo/DKU.png">
 

@@ -18,7 +18,7 @@ Here are some works of mine :books:
 
   <span style="font-size:16px">We discovered empirically and theoretically proved that many sequence models have different assumptions about the continuity of the input sequence. To utilize this property, we designed a regularizer that could alter the continuity of the input sequence and showed its effectiveness in various sequence models.</span>
 
-  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Preprint](/projects/Lip.pdf)] [[Code](/projects/LipRegCode.zip)]
+  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Code](/LipReg)]
 
 </ProjectCard>
 

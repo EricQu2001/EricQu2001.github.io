@@ -32,7 +32,7 @@ def LipReg(x0, transpose = True, normalize = True):
 	return torch.square(x[..., 1:] - x[..., :-1]).mean(dim = -1).mean()
 ```
 
-The normal way to use this regularizer is to calculate and return it in `forward` function in the model, and add it in to model during training. Here is a pseudocode example:
+The normal way to use this regularizer is to calculate and return it in `forward` function in the model, and add it in the loss during training. Here is a pseudocode example:
 
 ```python
 class SomeModel(nn.Module):
