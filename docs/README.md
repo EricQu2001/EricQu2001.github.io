@@ -17,7 +17,7 @@ socials:
     link: https://www.linkedin.com/in/EricZQu
 
 cv: "/cv.pdf"
-bio: Incoming PhD Student at UC Berkeley
+bio: PhD Student at UC Berkeley
 email: ericqu [at] berkeley [dot] edu
 ---
 
@@ -25,23 +25,22 @@ email: ericqu [at] berkeley [dot] edu
 
 ## About Me
 
-I am an incoming Computer Science PhD Student at University of California, Berkeley. I revived my B.Sc. in Data Science from Duke University and Duke Kunshan University, where I was mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I am also a research intern at Microsoft Research Aisa, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
+I am a first-year Computer Science PhD Student at University of California, Berkeley, advised by [Aditi Krishnapriyan](https://a1k12.github.io). I revived my B.Sc. with distinction in Data Science from Duke University and Duke Kunshan University, where I was mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I also worked as a research intern at Microsoft Research Asia, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
 
-My research interest mainly falls on **Geometric Deep Learning** and **AI for Science**. I also have experience in sequence modeling (LLMs), graph neural networks, and (3D) computer vision. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
-
-**I will attend ICLR 2023 at Kigali, Rwandan. Feel free to drop me an email if you want to chat with me.**
-
+My research interest mainly falls on **Geometric Deep Learning** and **AI for Science**. I also have experience in LLMs, sequence modeling, and graph neural networks. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
 ## News
 
 <span style="font-size:17px">
 
-<!-- - [Feb 2023]  I am admitted to the **Ph.D. program of UC Berkeley, EECS**! -->
+- [May 2023]  Duke Kunshan University reported my undergrad story (in Chinese) [here](https://news.dukekunshan.edu.cn/zh-hans/people-story/eric-qucontributing-to-humanity-through-machine-learning/).
+- [May 2023]  I graduated from Duke Kunshan University with distinction! :mortar_board:
+- [Feb 2023]  I am admitted to the **EECS Ph.D. program of UC Berkeley**!
 - [Jan 2023]  Our work "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer" is accepted (Spotlight) by ICLR'23! :tada:
-- [Oct 2022]  Our work "Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks" is accepted (Poster) by NuerIPS'22 NeurReps Workshop! :tada:
+<!-- - [Oct 2022]  Our work "Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks" is accepted (Poster) by NuerIPS'22 NeurReps Workshop! :tada: -->
 - [May 2022]  I joined as a research intern in Microsoft Research Asia. :man_office_worker:
 <!-- - [Jan 2022]	Our work "Lorentzian Fully Hyperbolic Generative Adversarial Network" is now public on arXiv. -->
-- [Aug 2021]	Duke Kunshan University (Times Higher Education) reported our work in the news [here](https://www.timeshighereducation.com/hub/p/data-science-undergraduates-first-published-research-comes-years-passion-computing).
+- [Aug 2021]	Times Higher Education (Duke Kunshan University) reported our work in the news [here](https://www.timeshighereducation.com/hub/p/data-science-undergraduates-first-published-research-comes-years-passion-computing).
 <!-- - [Apr 2021]	Our work "Quantifying Nanoparticle Assembly States in a Polymer Matrix through Deep Learning" is accepted by Macromolecules! :tada: -->
 
 </span>
@@ -62,7 +61,19 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
-  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Code](/LipReg)]
+  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Code](/LipReg)] [[Slides](/projects/LipRegSlides.pdf)] [[Poster](/projects/LipRegPoster.pdf)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/shapeconv.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**CNN Kernels Can Be the Best Shapelets**</span>
+
+  *Preprint (Submitted to NeurIPS 2023)*
+
+  <span style="color:grey">**Eric Qu**, Yansen Wang, Xufang Luo, Wenqiang He, Dongsheng Li</span>
+
+  [[Preprint](/projects/ShapeConv_Preprint.pdf)] [[Code](/projects/ShapeConvCode.zip)]
 
 </ProjectCard>
 
@@ -70,11 +81,11 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
 
-  *Preprint (Submitted to ICML 2023)*
+  *arXiv:2306.08862, (Submitted to TPAMI)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
-  [[Preprint](/projects/HKNet_Preprint.pdf)] [[Code](/projects/HKNetCode.zip)] [[Poster](/projects/HKNet_Poster.pdf)]
+  [[Preprint](https://arxiv.org/abs/2306.08862)] [[Code](https://github.com/EricZQu/Hyperbolic-Convolution-via-Kernel-Point-Aggregation/tree/main)] [[Poster](/projects/HKNet_Poster.pdf)]
 
 </ProjectCard>
 
@@ -82,7 +93,7 @@ Sept 2019 - Present -->
 
   <span style="font-size:20px">**Autoencoding Hyperbolic Representation for Adversarial Generation**</span>
 
-  *arXiv:2201.12825, (Submitted to ICML 2023)*
+  *arXiv:2201.12825, (Submitted to JMLR)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
@@ -126,7 +137,7 @@ Sept 2019 - Present -->
 
 </ProjectCard> -->
 
-## Projects
+<!-- ## Projects
 
 <ProjectCard image="/projects/packing.pdf" hideBorder=true>
 
@@ -146,11 +157,22 @@ Sept 2019 - Present -->
 
   <span style="color:grey">**Eric Qu**, Max Yueqian Lin, Kai Zhang</span>
 
-</ProjectCard>
+</ProjectCard> -->
 
 [→ Full list of projects and abstract](/projects/)
 
 ## Experiences
+
+<ExpCard image="/logo/ICLR.pdf">
+
+  <span style="font-size:22px">**Oral Presentation**</span>
+  
+  Oral 6 Track 5: Applications & Deep Learning                                
+  ICLR 2023
+
+  <span style="color:grey;font-size:16px;">May 2023 &middot; Kigali, Rwanda</span>
+
+</ExpCard>
 
 <ExpCard image="/logo/reps.jpg">
 
@@ -181,7 +203,7 @@ Sept 2019 - Present -->
   [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/),                  
   Microsoft Research Asia
 
-  <span style="color:grey;font-size:16px;">May 2022 - Present &middot; Shanghai, China</span>
+  <span style="color:grey;font-size:16px;">May 2022 - Jun 2023 &middot; Shanghai, China</span>
 
 </ExpCard>
 
@@ -238,7 +260,7 @@ Sept 2019 - Present -->
   <!-- Computational Soft Matter and Machine Learning Lab,      -->
   Duke Kunshan University
 
-  <span style="color:grey;font-size:16px;">Nov 2019 - Present &middot; Jiangsu, China</span>
+  <span style="color:grey;font-size:16px;">Nov 2019 - May 2023 &middot; Jiangsu, China</span>
 
   <span style="color:grey;font-size:16px;">Mentored by [Prof. Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people) and [Prof. Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) </span>
 
@@ -246,6 +268,34 @@ Sept 2019 - Present -->
 
 
 ## Awards & Honors
+
+- <p style="text-align:left;font-size:18px;">
+      Graduation with Distinction (Top 5%) - Duke Kunshan University
+      <span style="float:right;">
+          May 2023
+      </span>
+  </p>
+
+- <p style="text-align:left;font-size:18px;">
+      Graduation with Latin Honors <i>cum laude</i>  - Duke Kunshan University
+      <span style="float:right;">
+          May 2023
+      </span>
+  </p>
+
+- <p style="text-align:left;font-size:18px;">
+      Zu Chongzhi Math Signature Work Award - DKU Zu Chongzhi Center
+      <span style="float:right;">
+          May 2023
+      </span>
+  </p>
+
+- <p style="text-align:left;font-size:18px;">
+      Conference Travel Grant (ICLR 2023) - Duke Kunshan University
+      <span style="float:right;">
+          May 2023
+      </span>
+  </p>
 
 - <p style="text-align:left;font-size:18px;">
       Conference Travel Grant (NeurIPS 2022) - Duke Kunshan University
@@ -268,7 +318,7 @@ Sept 2019 - Present -->
       </span>
   </p> <br>
 
--	<p style="text-align:left;font-size:18px;">
+<!-- -	<p style="text-align:left;font-size:18px;">
 	    Mathematical Contest In Modeling - Honorable Mention
 	    <span style="float:right;">
 	        Apr 2020
@@ -289,7 +339,7 @@ Sept 2019 - Present -->
       <span style="float:right;">
           2016, 2017
       </span>
-  </p>
+  </p> -->
 
 
 
