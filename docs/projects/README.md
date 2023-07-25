@@ -26,13 +26,11 @@ Here are some works of mine :books:
 
   <span style="font-size:20px">**CNN Kernels Can Be the Best Shapelets**</span>
 
-  *arXiv:2306.08862 (2023)*
+  *Preprint (2023)*
 
   <span style="color:grey;font-size:16px">**Eric Qu**, Yansen Wang, Xufang Luo, Wenqiang He, Dongsheng Li</span>
 
-  <span style="font-size:16px">We introduce ShapeConv, a CNN layer that bridges the gap between traditional shapelets and CNNs by acting as shapelet-style kernels, enhancing efficiency and accuracy while retaining interpretability. The model's performance improves with human knowledge input, achieving SOTA without compromising interpretability or controllability.</span>
-
-  [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Code](/LipReg)]
+  [[Preprint](/projects/ShapeConv_Preprint.pdf)] [[Code](/projects/ShapeConvCode.zip)]
 
 </ProjectCard>
 
@@ -40,7 +38,7 @@ Here are some works of mine :books:
 
   <span style="font-size:18px">**Hyperbolic Convolution via Kernel Point Aggregation**</span>
 
-  *Preprint (2022)*
+  *arXiv:2306.08862 (2022)*
 
   <span style="color:grey">**Eric Qu**, Dongmian Zou</span>
 
