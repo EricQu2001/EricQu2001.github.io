@@ -25,7 +25,7 @@ email: ericqu [at] berkeley [dot] edu
 
 ## About Me
 
-I am a first-year Computer Science PhD Student at University of California, Berkeley, advised by [Aditi Krishnapriyan](https://a1k12.github.io). I revived my B.Sc. with distinction in Data Science from Duke University and Duke Kunshan University, where I was mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I also worked as a research intern at Microsoft Research Asia, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
+I am a first-year Computer Science PhD Student at University of California, Berkeley, [Berkeley AI Research Lab](https://bair.berkeley.edu/index.html), advised by [Aditi Krishnapriyan](https://a1k12.github.io). I received my B.Sc. with distinction in Data Science from Duke University and Duke Kunshan University, where I was mentored by [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou) and [Kai Zhang](https://sites.google.com/site/kaizhangstatmech/people). I also worked as a research intern at Microsoft Research Asia, [Shanghai AI/ML Group](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) led by [Dongsheng Li](http://recmind.cn).
 
 My research interest mainly falls on **Geometric Deep Learning** and **AI for Science**. I also have experience in LLMs, sequence modeling, and graph neural networks. In general, I am interested in combining ideas from mathematics with machine learning, and using machine learning to solve interdisciplinary problems.
 
@@ -33,10 +33,12 @@ My research interest mainly falls on **Geometric Deep Learning** and **AI for Sc
 
 <span style="font-size:17px">
 
+- [Jan 2024]  Our work "CNN Kernels Can Be the Best Shapelets" is accepted by ICLR 2024! :tada:
+- [Aug 2023]  Starting my PhD at UC Berkeley!
 - [May 2023]  Duke Kunshan University reported my undergrad story (in Chinese) [here](https://news.dukekunshan.edu.cn/zh-hans/people-story/eric-qucontributing-to-humanity-through-machine-learning/).
 - [May 2023]  I graduated from Duke Kunshan University with distinction! :mortar_board:
-- [Feb 2023]  I am admitted to the **EECS Ph.D. program of UC Berkeley**!
-- [Jan 2023]  Our work "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer" is accepted (Spotlight) by ICLR'23! :tada:
+<!-- - [Feb 2023]  I am admitted to the **EECS Ph.D. program of UC Berkeley**! -->
+<!-- - [Jan 2023]  Our work "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer" is accepted (Spotlight) by ICLR'23! :tada: -->
 <!-- - [Oct 2022]  Our work "Lorentz Direct Concatenation for Stable Training in Hyperbolic Neural Networks" is accepted (Poster) by NuerIPS'22 NeurReps Workshop! :tada: -->
 - [May 2022]  I joined as a research intern in Microsoft Research Asia. :man_office_worker:
 <!-- - [Jan 2022]	Our work "Lorentzian Fully Hyperbolic Generative Adversarial Network" is now public on arXiv. -->
@@ -53,6 +55,18 @@ Sept 2019 - Present -->
 
 ## Publications & Manuscripts
 
+<ProjectCard image="/projects/shapeconv.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**CNN Kernels Can Be the Best Shapelets**</span>
+
+  *ICLR 2024 Poster*
+
+  <span style="color:grey">**Eric Qu**, Yansen Wang, Xufang Luo, Wenqiang He, Dongsheng Li</span>
+
+  [[Link](https://openreview.net/forum?id=O8ouVV8PjF)] [[Code](/projects/ShapeConvCode.zip)]
+
+</ProjectCard>
+
 <ProjectCard image="/projects/continuity.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
@@ -62,18 +76,6 @@ Sept 2019 - Present -->
   <span style="color:grey">**Eric Qu**, Xufang Luo, Dongsheng Li</span>
 
   [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Code](/LipReg)] [[Slides](/projects/LipRegSlides.pdf)] [[Poster](/projects/LipRegPoster.pdf)]
-
-</ProjectCard>
-
-<ProjectCard image="/projects/shapeconv.pdf" hideBorder=true>
-
-  <span style="font-size:20px">**CNN Kernels Can Be the Best Shapelets**</span>
-
-  *Preprint (Submitted to NeurIPS 2023)*
-
-  <span style="color:grey">**Eric Qu**, Yansen Wang, Xufang Luo, Wenqiang He, Dongsheng Li</span>
-
-  [[Preprint](/projects/ShapeConv_Preprint.pdf)] [[Code](/projects/ShapeConvCode.zip)]
 
 </ProjectCard>
 

@@ -8,6 +8,20 @@ Here are some works of mine :books:
 
 ## Publications & Manuscripts
 
+<ProjectCard image="/projects/shapeconv.pdf" hideBorder=true>
+
+  <span style="font-size:20px">**CNN Kernels Can Be the Best Shapelets**</span>
+
+  *International Conference on Learning Representations (ICLR), Poster (2024)*
+
+  <span style="color:grey;font-size:16px">**Eric Qu**, Yansen Wang, Xufang Luo, Wenqiang He, Dongsheng Li</span>
+
+  <span style="font-size:16px">We found that shapelets are essentially equivalent to a specific type of CNN kernel with a squared norm and pooling. Based on this, we propose ShapeConv, an interpretable CNN layer with its kernel serving as shapelets to conduct time-series modeling tasks in both supervised and unsupervised settings, achieving stat-of-the-art performance.</span>
+
+  [[Link](https://openreview.net/forum?id=O8ouVV8PjF)] [[Code](/projects/ShapeConvCode.zip)]
+
+</ProjectCard>
+
 <ProjectCard image="/projects/continuity.pdf" hideBorder=true>
 
   <span style="font-size:20px">**Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer**</span>
@@ -19,18 +33,6 @@ Here are some works of mine :books:
   <span style="font-size:16px">We discovered empirically and theoretically proved that many sequence models have different assumptions about the continuity of the input sequence. To utilize this property, we designed a regularizer that could alter the continuity of the input sequence and showed its effectiveness in various sequence models.</span>
 
   [[Link](https://openreview.net/forum?id=27uBgHuoSQ)] [[Code](/LipReg)]
-
-</ProjectCard>
-
-<ProjectCard image="/projects/shapeconv.pdf" hideBorder=true>
-
-  <span style="font-size:20px">**CNN Kernels Can Be the Best Shapelets**</span>
-
-  *Preprint (2023)*
-
-  <span style="color:grey;font-size:16px">**Eric Qu**, Yansen Wang, Xufang Luo, Wenqiang He, Dongsheng Li</span>
-
-  [[Preprint](/projects/ShapeConv_Preprint.pdf)] [[Code](/projects/ShapeConvCode.zip)]
 
 </ProjectCard>
 
